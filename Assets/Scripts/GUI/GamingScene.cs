@@ -4,7 +4,6 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 using System;
-using TreeEditor;
 
 public class GamingScene : MonoBehaviour
 {

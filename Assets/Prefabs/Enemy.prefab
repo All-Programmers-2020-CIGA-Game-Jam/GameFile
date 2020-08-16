@@ -105,7 +105,7 @@ MonoBehaviour:
   CheckTargetTime: 2
   rotating: 0
   deltaTime: 0.5
-  MoveSpeed: 10
+  MoveSpeed: 3.5
   ConsumeTime: 3
   swallow: {fileID: 8300000, guid: a584a2262f700744584572359af046bd, type: 3}
   countDownCanvas: {fileID: 62040022517788724, guid: 5c911a1e8d3bc4942ad66d356276ea7d,

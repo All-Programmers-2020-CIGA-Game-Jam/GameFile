@@ -131,6 +131,7 @@ public class PlayerMovement : MonoBehaviour
         // Mute steps when not moving;
         if (movement.x == 0 && movement.z == 0)
         {
+            rb.velocity = Vector3.zero;
             steps.mute = true;
             anim.SetBool("running", false);
         } else
